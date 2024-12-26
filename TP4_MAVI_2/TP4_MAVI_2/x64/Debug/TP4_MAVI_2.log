@@ -1,0 +1,22 @@
+﻿  main.cpp
+C:\Users\anaps\source\repos\TP4_MAVI_2\TP4_MAVI_2\main.cpp(18,41): warning C4244: 'argumento': conversión de 'T' a 'float'; posible pérdida de datos
+C:\Users\anaps\source\repos\TP4_MAVI_2\TP4_MAVI_2\main.cpp(18,41): warning C4244:         with
+C:\Users\anaps\source\repos\TP4_MAVI_2\TP4_MAVI_2\main.cpp(18,41): warning C4244:         [
+C:\Users\anaps\source\repos\TP4_MAVI_2\TP4_MAVI_2\main.cpp(18,41): warning C4244:             T=unsigned int
+C:\Users\anaps\source\repos\TP4_MAVI_2\TP4_MAVI_2\main.cpp(18,41): warning C4244:         ]
+C:\Users\anaps\source\repos\TP4_MAVI_2\TP4_MAVI_2\main.cpp(19,44): warning C4244: 'argumento': conversión de 'T' a 'float'; posible pérdida de datos
+C:\Users\anaps\source\repos\TP4_MAVI_2\TP4_MAVI_2\main.cpp(19,44): warning C4244:         with
+C:\Users\anaps\source\repos\TP4_MAVI_2\TP4_MAVI_2\main.cpp(19,44): warning C4244:         [
+C:\Users\anaps\source\repos\TP4_MAVI_2\TP4_MAVI_2\main.cpp(19,44): warning C4244:             T=unsigned int
+C:\Users\anaps\source\repos\TP4_MAVI_2\TP4_MAVI_2\main.cpp(19,44): warning C4244:         ]
+C:\Users\anaps\source\repos\TP4_MAVI_2\TP4_MAVI_2\main.cpp(20,80): warning C4244: 'argumento': conversión de 'T' a 'float'; posible pérdida de datos
+C:\Users\anaps\source\repos\TP4_MAVI_2\TP4_MAVI_2\main.cpp(20,80): warning C4244:         with
+C:\Users\anaps\source\repos\TP4_MAVI_2\TP4_MAVI_2\main.cpp(20,80): warning C4244:         [
+C:\Users\anaps\source\repos\TP4_MAVI_2\TP4_MAVI_2\main.cpp(20,80): warning C4244:             T=unsigned int
+C:\Users\anaps\source\repos\TP4_MAVI_2\TP4_MAVI_2\main.cpp(20,80): warning C4244:         ]
+C:\Users\anaps\source\repos\TP4_MAVI_2\TP4_MAVI_2\main.cpp(20,41): warning C4244: 'argumento': conversión de 'T' a 'float'; posible pérdida de datos
+C:\Users\anaps\source\repos\TP4_MAVI_2\TP4_MAVI_2\main.cpp(20,41): warning C4244:         with
+C:\Users\anaps\source\repos\TP4_MAVI_2\TP4_MAVI_2\main.cpp(20,41): warning C4244:         [
+C:\Users\anaps\source\repos\TP4_MAVI_2\TP4_MAVI_2\main.cpp(20,41): warning C4244:             T=unsigned int
+C:\Users\anaps\source\repos\TP4_MAVI_2\TP4_MAVI_2\main.cpp(20,41): warning C4244:         ]
+  TP4_MAVI_2.vcxproj -> C:\Users\anaps\source\repos\TP4_MAVI_2\x64\Debug\TP4_MAVI_2.exe
